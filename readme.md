@@ -11,6 +11,7 @@ while addressing real-world sustainability challenges in the fashion industry. <
 ---
 ### 👥 Group Members <br>
 - Yuvraj Yadav : A00026274 <br>
+- Bikesh Yadav : A00031800 <br>
 
 ---
 
