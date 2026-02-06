@@ -13,6 +13,7 @@ while addressing real-world sustainability challenges in the fashion industry. <
 - Yuvraj Yadav : A00026274 <br>
 - Bikesh Yadav : A00031800 <br>
 - Ankit Sapkota : A00028294 <br> 
+- Purnawashi Mallah : A00032364 <br>
 
 ---
 
